@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=GQQqBru-Vko
 ```bash
 https://www.youtube.com/watch?v=GQQqBru-Vko
 ```
-
+**1, 구구단 만들기**
 ```bash
 results = []
 for i in range(2, 10):
