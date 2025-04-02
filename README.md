@@ -16,3 +16,16 @@ for i in range(2, 10):
 
 print(results)
 ```
+입력받아 구구단 표시하기
+```bash
+dan = int(input("원하는 단을 입력하세요 (2~9): "))
+
+results = []
+
+if 2 <= dan <= 9:
+    for i in range(1, 10):
+        results.append(f"{dan} x {i} = {dan * i}")
+
+    print(results)
+else:
+    print("2에서 9 사이의 숫자를 입력해주세요.")
