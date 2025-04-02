@@ -7,3 +7,12 @@ https://www.youtube.com/watch?v=GQQqBru-Vko
 ```bash
 https://www.youtube.com/watch?v=GQQqBru-Vko
 ```
+
+```bash
+results = []
+for i in range(2, 10):
+    for j in range(1, 10):
+        results.append(f"{i} x {j} = {i*j}")
+
+print(results)
+```
