@@ -2,4 +2,4 @@
 ##### 마크다운 방법
 ### 구리고등학교
 ## 1학년
-![Uploading 스크린샷 2024-07-16 120459.png…]()
+![스크린샷 2025-04-02 155553](https://github.com/user-attachments/assets/19511a58-108a-4ff5-ac84-ade7dcf13f87)
