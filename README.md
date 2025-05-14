@@ -2,6 +2,7 @@
 ##### 마크다운 방법
 ### 구리고등학교
 ## 1학년
+마크다운으로 github 이미지 올리기
 ![스크린샷 2025-04-02 155553](https://github.com/user-attachments/assets/19511a58-108a-4ff5-ac84-ade7dcf13f87)
 https://www.youtube.com/watch?v=GQQqBru-Vko
 ```bash
